@@ -1,6 +1,6 @@
-package com.sensetime.lib_rtc_5o_jt
+package com.sensetime.lib_rtc
 
-import com.sensetime.lib_rtc_5o_jt.model.MessageContent
+import com.sensetime.lib_rtc.model.MessageContent
 
 interface IMessage {
     fun sendMsg(

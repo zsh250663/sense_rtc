@@ -1,9 +1,9 @@
-package com.sensetime.lib_rtc_5o_jt.util
+package com.sensetime.lib_rtc.util
 
 import android.content.Context
 import android.util.DisplayMetrics
 import android.view.WindowManager
-import com.sensetime.lib_rtc_5o_jt.model.RtcVideoModel
+import com.sensetime.lib_rtc.model.RtcVideoModel
 import kotlin.math.max
 import kotlin.math.min
 import kotlin.math.sqrt

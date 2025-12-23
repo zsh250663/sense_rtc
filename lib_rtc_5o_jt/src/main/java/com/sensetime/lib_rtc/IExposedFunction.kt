@@ -1,4 +1,4 @@
-package com.sensetime.lib_rtc_5o_jt
+package com.sensetime.lib_rtc
 
 interface IExposedFunction {
     fun onCreateSessionResult(sessionId: String?)

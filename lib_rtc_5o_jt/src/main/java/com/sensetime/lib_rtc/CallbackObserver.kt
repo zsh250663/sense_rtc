@@ -1,4 +1,4 @@
-package com.sensetime.lib_rtc_5o_jt
+package com.sensetime.lib_rtc
 
 import androidx.lifecycle.DefaultLifecycleObserver
 import androidx.lifecycle.LifecycleOwner

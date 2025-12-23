@@ -1,4 +1,4 @@
-package com.sensetime.lib_rtc_5o_jt
+package com.sensetime.lib_rtc
 
 enum class ConnectionType(val value: Int) {
     // 0: 普通音视频，带联网搜索  1: 讲故事  2:普通音视频

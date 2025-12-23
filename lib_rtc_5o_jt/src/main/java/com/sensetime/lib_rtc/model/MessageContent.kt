@@ -1,4 +1,4 @@
-package com.sensetime.lib_rtc_5o_jt.model
+package com.sensetime.lib_rtc.model
 
 data class MessageContent(
     val type: String?,

@@ -1,4 +1,4 @@
-package com.sensetime.lib_rtc_5o_jt.model
+package com.sensetime.lib_rtc.model
 
 data class FnCallEnd<T>(
     val type: String?,

@@ -1,6 +1,6 @@
-package com.sensetime.lib_rtc_5o_jt
+package com.sensetime.lib_rtc
 
-import com.sensetime.lib_rtc_5o_jt.util.TagParser
+import com.sensetime.lib_rtc.util.TagParser
 
 interface ISenseEngineCallback : IRtcEngineCallback, MessageCallback, TagParser.TagCallback {
 }

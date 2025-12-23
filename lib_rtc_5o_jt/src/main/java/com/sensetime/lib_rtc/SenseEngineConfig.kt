@@ -1,7 +1,7 @@
-package com.sensetime.lib_rtc_5o_jt
+package com.sensetime.lib_rtc
 
 import android.content.Context
-import com.sensetime.lib_rtc_5o_jt.util.RtcVideoSizeUtil
+import com.sensetime.lib_rtc.util.RtcVideoSizeUtil
 
 class SenseEngineConfig private constructor(
     val audioOnly: Boolean,

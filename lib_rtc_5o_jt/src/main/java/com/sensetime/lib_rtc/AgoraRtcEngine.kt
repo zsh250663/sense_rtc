@@ -1,9 +1,9 @@
-package com.sensetime.lib_rtc_5o_jt
+package com.sensetime.lib_rtc
 
 import android.content.Context
 import android.util.Log
 import android.view.TextureView
-import com.sensetime.lib_rtc_5o_jt.util.RtcVideoSizeUtil
+import com.sensetime.lib_rtc.util.RtcVideoSizeUtil
 import io.agora.rtc2.ChannelMediaOptions
 import io.agora.rtc2.Constants
 import io.agora.rtc2.Constants.AUDIO_SCENARIO_GAME_STREAMING

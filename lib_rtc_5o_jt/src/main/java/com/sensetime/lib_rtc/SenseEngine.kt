@@ -1,10 +1,10 @@
-package com.sensetime.lib_rtc_5o_jt
+package com.sensetime.lib_rtc
 
 import android.content.Context
 import android.util.Log
 import android.view.TextureView
-import com.sensetime.lib_rtc_5o_jt.model.MessageContent
-import com.sensetime.lib_rtc_5o_jt.util.TagParser
+import com.sensetime.lib_rtc.model.MessageContent
+import com.sensetime.lib_rtc.util.TagParser
 import java.lang.ref.WeakReference
 
 class SenseEngine private constructor() : IRtcEngine, IMessage, ISenseEngineCallback {

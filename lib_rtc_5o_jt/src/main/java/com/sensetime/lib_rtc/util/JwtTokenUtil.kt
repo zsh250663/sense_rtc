@@ -1,4 +1,4 @@
-package com.sensetime.lib_rtc_5o_jt.util
+package com.sensetime.lib_rtc.util
 
 import android.os.Build
 import androidx.annotation.RequiresApi

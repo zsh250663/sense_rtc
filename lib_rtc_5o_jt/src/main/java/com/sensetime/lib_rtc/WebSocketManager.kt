@@ -1,4 +1,4 @@
-package com.sensetime.lib_rtc_5o_jt
+package com.sensetime.lib_rtc
 
 import android.net.Uri
 import android.os.Handler
@@ -6,9 +6,9 @@ import android.os.Looper
 import android.text.TextUtils
 import android.util.Log
 import com.google.gson.Gson
-import com.sensetime.lib_rtc_5o_jt.model.MessageContent
-import com.sensetime.lib_rtc_5o_jt.model.MultiTypeMessage
-import com.sensetime.lib_rtc_5o_jt.util.JwtTokenUtil
+import com.sensetime.lib_rtc.model.MessageContent
+import com.sensetime.lib_rtc.model.MultiTypeMessage
+import com.sensetime.lib_rtc.util.JwtTokenUtil
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
